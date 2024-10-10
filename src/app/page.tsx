@@ -1,5 +1,5 @@
 import Image from "next/image";
-import UnderConstructionImage from "../../public/images/UnderConstruction.jpg"
+import UnderConstructionImage from "@/app/public/images/UnderConstruction.jpg"
 export default function Home() {
   return (
    <div className="flex flex-col w-screen h-screen justify-center items-center bg-teal-100">
