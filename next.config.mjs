@@ -1,8 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    basePath:"/one-million",
+   // basePath:"/one-million",
     output:"export",
-    assetPrefix:"//one-million/",
+   // assetPrefix:"/one-million/",
     reactStrictMode: true,
     images: { unoptimized: true }
 };
